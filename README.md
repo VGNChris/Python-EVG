@@ -1,0 +1,1 @@
+# Respositório com meus estudos de Python ao longo do curso da EVG
